@@ -10,8 +10,8 @@ height: 700px;}
     font-family: 'Bebas Neue';
 font-size: 65px;}
 .winter{color: rgb(47, 54, 75);}
-.para{color: rgb(84, 84, 87);}
-padding-right: 7px;}
+.para{color: rgb(84, 84, 87);
+       padding-right:7px;}
 
 
 .photo img{width: 350px;}
